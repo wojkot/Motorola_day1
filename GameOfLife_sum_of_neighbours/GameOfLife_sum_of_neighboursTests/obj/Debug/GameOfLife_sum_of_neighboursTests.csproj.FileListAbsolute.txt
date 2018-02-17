@@ -1,0 +1,8 @@
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\GameOfLife_sum_of_neighbours\GameOfLife_sum_of_neighboursTests\bin\Debug\GameOfLife_sum_of_neighboursTests.dll
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\GameOfLife_sum_of_neighbours\GameOfLife_sum_of_neighboursTests\bin\Debug\GameOfLife_sum_of_neighboursTests.pdb
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\GameOfLife_sum_of_neighbours\GameOfLife_sum_of_neighboursTests\bin\Debug\GameOfLife_sum_of_neighbours.exe
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\GameOfLife_sum_of_neighbours\GameOfLife_sum_of_neighboursTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\GameOfLife_sum_of_neighbours\GameOfLife_sum_of_neighboursTests\bin\Debug\GameOfLife_sum_of_neighbours.pdb
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\GameOfLife_sum_of_neighbours\GameOfLife_sum_of_neighboursTests\obj\Debug\GameOfLife_sum_of_neighboursTests.csprojResolveAssemblyReference.cache
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\GameOfLife_sum_of_neighbours\GameOfLife_sum_of_neighboursTests\obj\Debug\GameOfLife_sum_of_neighboursTests.dll
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\GameOfLife_sum_of_neighbours\GameOfLife_sum_of_neighboursTests\obj\Debug\GameOfLife_sum_of_neighboursTests.pdb

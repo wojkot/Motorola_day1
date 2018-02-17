@@ -1,0 +1,6 @@
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\GameOfLife_sum_of_neighbours\GameOfLife_sum_of_neighbours\bin\Debug\GameOfLife_sum_of_neighbours.exe.config
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\GameOfLife_sum_of_neighbours\GameOfLife_sum_of_neighbours\bin\Debug\GameOfLife_sum_of_neighbours.exe
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\GameOfLife_sum_of_neighbours\GameOfLife_sum_of_neighbours\bin\Debug\GameOfLife_sum_of_neighbours.pdb
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\GameOfLife_sum_of_neighbours\GameOfLife_sum_of_neighbours\obj\Debug\GameOfLife_sum_of_neighbours.csprojResolveAssemblyReference.cache
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\GameOfLife_sum_of_neighbours\GameOfLife_sum_of_neighbours\obj\Debug\GameOfLife_sum_of_neighbours.exe
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\GameOfLife_sum_of_neighbours\GameOfLife_sum_of_neighbours\obj\Debug\GameOfLife_sum_of_neighbours.pdb
