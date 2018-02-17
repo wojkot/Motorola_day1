@@ -1,0 +1,6 @@
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\Solution\Solution\bin\Debug\Solution.exe.config
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\Solution\Solution\bin\Debug\Solution.exe
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\Solution\Solution\bin\Debug\Solution.pdb
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\Solution\Solution\obj\Debug\Solution.csprojResolveAssemblyReference.cache
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\Solution\Solution\obj\Debug\Solution.exe
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\Solution\Solution\obj\Debug\Solution.pdb

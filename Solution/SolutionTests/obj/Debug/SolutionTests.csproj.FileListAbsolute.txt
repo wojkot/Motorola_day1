@@ -1,0 +1,8 @@
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\Solution\SolutionTests\bin\Debug\SolutionTests.dll
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\Solution\SolutionTests\bin\Debug\SolutionTests.pdb
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\Solution\SolutionTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\Solution\SolutionTests\bin\Debug\Solution.exe
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\Solution\SolutionTests\bin\Debug\Solution.pdb
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\Solution\SolutionTests\obj\Debug\SolutionTests.csprojResolveAssemblyReference.cache
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\Solution\SolutionTests\obj\Debug\SolutionTests.dll
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\Solution\SolutionTests\obj\Debug\SolutionTests.pdb
