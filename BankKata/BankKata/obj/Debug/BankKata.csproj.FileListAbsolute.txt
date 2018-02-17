@@ -1,0 +1,6 @@
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\BankKata\BankKata\bin\Debug\BankKata.exe.config
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\BankKata\BankKata\bin\Debug\BankKata.exe
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\BankKata\BankKata\bin\Debug\BankKata.pdb
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\BankKata\BankKata\obj\Debug\BankKata.csprojResolveAssemblyReference.cache
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\BankKata\BankKata\obj\Debug\BankKata.exe
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\BankKata\BankKata\obj\Debug\BankKata.pdb

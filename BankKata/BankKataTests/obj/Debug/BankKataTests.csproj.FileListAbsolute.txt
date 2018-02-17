@@ -1,0 +1,16 @@
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\BankKata\BankKataTests\bin\Debug\BankKataTests.dll
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\BankKata\BankKataTests\bin\Debug\BankKataTests.pdb
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\BankKata\BankKataTests\bin\Debug\BankKata.exe
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\BankKata\BankKataTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\BankKata\BankKataTests\bin\Debug\BankKata.pdb
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\BankKata\BankKataTests\obj\Debug\BankKataTests.csprojResolveAssemblyReference.cache
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\BankKata\BankKataTests\obj\Debug\BankKataTests.dll
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\BankKata\BankKataTests\obj\Debug\BankKataTests.pdb
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\BankKata\BankKataTests\bin\Debug\Castle.Core.dll
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\BankKata\BankKataTests\bin\Debug\Moq.dll
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\BankKata\BankKataTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\BankKata\BankKataTests\bin\Debug\System.ValueTuple.dll
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\BankKata\BankKataTests\bin\Debug\Castle.Core.xml
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\BankKata\BankKataTests\bin\Debug\Moq.pdb
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\BankKata\BankKataTests\bin\Debug\Moq.xml
+C:\Users\Wojciech\Documents\Motorola Academy\Day 1\BankKata\BankKataTests\bin\Debug\System.Threading.Tasks.Extensions.xml
